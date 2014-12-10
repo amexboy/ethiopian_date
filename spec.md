@@ -15,5 +15,13 @@
   Date date = myBirthDay1.getDate();
   GregorianCalendar gc = myBirthDay1.getGregorianCalendar();
   
+  myBirthDay.getDayOfTheWeek()
+  myBirthDay.add(1) // a day
+  myBirthDay.add(1,2) // a month and two days
+  
+  myBirthDay1.toGorgorianCalander()
+  
+  EthiopianCalander cal = new EthiopianCalander()
+  
   // . . . 
 ```
